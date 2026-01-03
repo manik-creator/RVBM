@@ -1,0 +1,7 @@
+{
+    "organization_name": "Acme Corp",
+    "known_exploited_in_org": {
+        "bug_bounty_hits": [],
+        "incident_response_hits": []
+    }
+}

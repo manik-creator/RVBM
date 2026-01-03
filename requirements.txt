@@ -1,0 +1,13 @@
+requests
+rich
+dataclasses-json
+beautifulsoup4
+pytest
+langchain-groq
+langchain-community
+langchain-core
+langgraph
+tavily-python
+fastapi
+uvicorn
+streamlit
