@@ -1,6 +1,7 @@
 # Agentic AI Risk Prioritization Engine 🛡️
 
 An advanced Cybersecurity Risk Analysis application that implements the "Risk Based Prioritization" (RBP) methodology. It moves beyond simple CVE lookups to provide mathematically grounded, actionable prioritization using CISA KEV, EPSS, NIST LEV, and SSVC Decision Trees.
+<img width="2474" height="1198" alt="Screenshot 2026-01-03 at 10 45 43 AM" src="https://github.com/user-attachments/assets/de5cb3ad-373b-4908-b6fd-eeac54e2b288" />
 
 ## Core Features
 
@@ -71,6 +72,7 @@ The engine was verified against a set of 15 CVEs to ensure "wedge-shaped" priori
 | **CVE-2020-1472** | **55.0** | **Act (1)** | 1.00 | Yes | 0.62 | Active (Zerologon) |
 | **CVE-2024-21406** | **0.9** | **Track Closely (3)** | 0.01 | No | 0.01 | Low Likelihood |
 | **CVE-1999-0524** | **0.0** | **Track (4)** | 0.00 | No | 0.00 | Legacy Info item |
+
 
 ## Project Structure
 
